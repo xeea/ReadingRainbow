@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Reading Rainbow</string>
+
+    <string name="username_hint">username</string>
+    <string name="email_hint">email</string>
+    <string name="password_hint">password</string>
+    <string name="confirm_password_hint">confirm password</string>
+
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+
+    <string name="menu_share">Share A Book</string>
+    <string name="menu_shared">Books You\'ve Lent Out</string>
+    <string name="menu_search">Borrow A Book</string>
+    <string name="menu_borrowed">Books You\'ve Made Available To Borrow</string>
+
+    <string name="search_prompt">Search For A Book To Share</string>
+    <string name="search_prompt2">Search For A Book To Borrow</string>
+    <string name="search_title">Search By Title</string>
+    <string name="search_author">Search By Author</string>
+    <string name="search_isbn">Search By ISBN</string>
+    <string name="book_not_found_button">Book Not Found? Manually Enter A Book.</string>
+
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="year">Year</string>
+    <string name="isbn">ISBN</string>
+    <string name="share_button">Share</string>
+</resources>
